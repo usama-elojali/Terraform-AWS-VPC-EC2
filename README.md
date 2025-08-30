@@ -1,1 +1,1 @@
-# Terraform-AWS-VPC-EC2-Free-Tier-Safe-
+# Terraform-AWS-VPC-EC2
